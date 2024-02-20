@@ -1,5 +1,9 @@
 # Documentation
 
+```{note}
+We're Open Source! Feel free to improve the Docs yourself.
+```
+
 To get started, invite CLYPPY to your Discord server with at least the following Permissions checked off: `SEND_MESSAGES`, `EMBED_LINKS`, `MENTION_EVERYONE`
 
 ![](images/default-permissions.webp)
