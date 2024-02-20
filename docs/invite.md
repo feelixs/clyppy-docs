@@ -1,4 +1,4 @@
-# Documentation
+# Inviting CLYPPY to your Server
 
 ```{note}
 Don't be shy - we're open source! Feel free to improve the docs through a Pull Request
