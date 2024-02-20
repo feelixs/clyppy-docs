@@ -1,12 +1,14 @@
 # Documentation
 
 ```{note}
-We're Open Source! Feel free to improve the Docs yourself.
+Don't be shy - we're open source! Feel free to improve the docs through a Pull Request
 ```
+
+## Invite CLYPPY
 
 To get started, invite CLYPPY to your Discord server with at least the following Permissions checked off: `SEND_MESSAGES`, `EMBED_LINKS`, `MENTION_EVERYONE`
 
-![](images/default-permissions.webp)
+![](../images/default-permissions.webp)
 
 ```{note}
 This part is important, as it will allow CLYPPY to send alerts correctly!
@@ -18,4 +20,4 @@ The additional required Permission, `ATTACH_FILES`, is required if you plan on u
 
 ![](https://cdn.jsdelivr.net/npm/@hackmd/emojify.js@2.1.0/dist/images/basic/tada.png)
 
-After successfully inviting CLYPPY to your server, you're ready to [add your first alert](alert.md) so CLYPPY knows what you'd like to be notified about!
+After successfully inviting CLYPPY, you're ready to [add your first alert](alert.md) so CLYPPY knows what to alert your server about!
