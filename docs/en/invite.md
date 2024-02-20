@@ -8,7 +8,7 @@ Don't be shy - we're open source! Feel free to improve the docs through a Pull R
 
 To get started, invite CLYPPY to your Discord server with at least the following Permissions checked off: `SEND_MESSAGES`, `EMBED_LINKS`, `MENTION_EVERYONE`
 
-![](images/default-permissions.webp)
+![](../images/default-permissions.webp)
 
 ```{note}
 This part is important, as it will allow CLYPPY to send alerts correctly!
