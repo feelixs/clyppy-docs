@@ -4,8 +4,6 @@
 Don't be shy - we're open source! Feel free to improve the docs through a Pull Request.
 ```
 
-Welcome to the CLYPPY Docs! 
-
 If you're here for help with a specific feature, you can search the docs using `cntrl+K` or `cmd+K` depending on your OS.
 
 Otherwise, you can follow the general order of the docs.
