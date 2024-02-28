@@ -8,8 +8,18 @@ As a social integration bot, CLYPPY has multiple features for working with Twitc
 
 The `/log` command is used for retrieving all messages sent in the Twitch Chat of the specified Twitch Channel, sent by a specific Twitch User. 
 
-```{admonition} USAGE
-:class: note
+```{admonition} Usage
+:class: tip
+`/log user=[Twitch user] channel=[Twitch channel]`
+```
+
+```{admonition} Usage
+:class: hint
+`/log user=[Twitch user] channel=[Twitch channel]`
+```
+
+```{admonition} Usage
+:class: attention
 `/log user=[Twitch user] channel=[Twitch channel]`
 ```
 
