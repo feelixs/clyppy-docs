@@ -1,8 +1,6 @@
 # Commands: Log
 
----
-
-### User Chat Logging for twitch.tv
+## User Chat Logging for twitch.tv
 
 As a social integration bot, CLYPPY has multiple features for working with Twitch, one of them being the `/log` command.
 
@@ -13,21 +11,11 @@ The `/log` command is used for retrieving all messages sent in the Twitch Chat o
 `/log user=[Twitch user] channel=[Twitch channel]`
 ```
 
-```{admonition} Usage
-:class: hint
-`/log user=[Twitch user] channel=[Twitch channel]`
-```
-
-```{admonition} Usage
-:class: attention
-`/log user=[Twitch user] channel=[Twitch channel]`
-```
-
 Both `user` and `channel` must be a Twitch username, like `xqc`, `kyedae`, etc.
 
 ---
 
-### Optional Parameters
+## Optional Parameters
 
 The `/log` command also has two optional params, `month` and `year`.
 
