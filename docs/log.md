@@ -25,5 +25,5 @@ If you want to specify a specific time to retrieve chatlogs from, you can use th
 - `month` must be the month number - for example January would be `1`, July would be `7`, and so forth.
 
 ```{note}
-If you choose to use any of the optional parameters, you must give a specific value for both `year` and `month`. Giving only `month` and leaving `year` blank, or vice versa, will not work.
+If you choose to use any of the optional parameters, you must give a specific value for both `month` and `year`. Giving only `month` and leaving `year` blank, or vice versa, will not work.
 ```
