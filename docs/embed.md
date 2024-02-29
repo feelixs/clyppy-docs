@@ -4,6 +4,8 @@
 
 CLYPPY can help you share videos from multiple platforms in your Discord chats. Simply call the `/embed` command with the link to the supported video, and CLYPPY will do the rest of the work.
 
+See [Supported Video Types](#supported-video-types) to view a list of all video platforms that CLYPPY can embed.
+
 ```{admonition} Usage
 :class: tip
 `/embed url=[Video link]`
@@ -23,3 +25,10 @@ The `/embed` commands also has two optional parameters, `with_chat` and `enable_
 
 - `with_chat`: for Twitch Clip embeds, set this to `True` to show the Twitch Chat inside the Video Embed.
 - `enable_preview`: By default, CLYPPY will automatically downscale videos to be uploadable to Discord. If you set `enable_preview` to `False`, though, CLYPPY will not downscale and, if it's too large for Discord, will direct you to download the fetched video file (without embedding it to Discord).
+
+## Supported Video Types:
+
+| Video Platform | Supported                            |
+|----------------|--------------------------------------|
+| twitch.tv      | <span style="color: green;">✔</span> |
+| youtube.com    | <span style="color: green;">✔</span> |
