@@ -28,7 +28,7 @@ The `/embed` commands also has two optional parameters, `with_chat` and `enable_
 
 ## Supported Video Types:
 
-| Video Platform | Supported                                                |
-|----------------|----------------------------------------------------------|
-| twitch.tv      | <span style="color:green;font-size:2em;">&#10004;</span> |
-| youtube.com    | <span style="color:green;font-size:2em;">&#10004;</span> |
+| Video Platform | Supported                                                  | Notes                              |
+|----------------|------------------------------------------------------------|------------------------------------|
+| twitch.tv      | <span style="color:green;font-size:1.5em;">&#10004;</span> | Also adds Twitch Chat to the embed |
+| youtube.com    | <span style="color:green;font-size:1.5em;">&#10007;</span> | Planned to be added                |
