@@ -4,7 +4,7 @@
 
 CLYPPY can help you share videos from multiple platforms in your Discord chats. Simply call the `/embed` command with the link to the supported video, and CLYPPY will do the rest of the work.
 
-See {ref}`supported-video-types` to view a list of all video platforms that CLYPPY can embed.
+See [Supported Video Types](#supported-video-types) to view a list of all video platforms that CLYPPY can embed.
 
 ```{admonition} Usage
 :class: tip
@@ -28,7 +28,7 @@ The `/embed` commands also has two optional parameters, `with_chat` and `enable_
 
 ## Supported Video Types:
 
-| Video Platform | Supported                                           |
-|----------------|-----------------------------------------------------|
-| twitch.tv      | <style>span[class="checked"]{color: green;}</style> |
-| youtube.com    | <style>span[class="checked"]{color: green;}</style> |
+| Video Platform | Supported                                 |
+|----------------|-------------------------------------------|
+| twitch.tv      | <span style="color:green">&#10004;</span> |
+| youtube.com    | <span style="color:green">&#10004;</span> |
