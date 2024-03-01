@@ -31,4 +31,5 @@ The `/embed` commands also has two optional parameters, `with_chat` and `enable_
 | Video Platform | Supported                                                  | Notes                              |
 |----------------|------------------------------------------------------------|------------------------------------|
 | twitch.tv      | <span style="color:green;font-size:1.5em;">&#10004;</span> | Also adds Twitch Chat to the embed |
-| youtube.com    | <span style="color:red;font-size:1.5em;">&#10007;</span>   | Planned to be added                |
+| youtube.com    | <span style="color:green;font-size:1.5em;">&#10004;</span> | Supports videos under 5 minutes    |
+| tiktok.com     | <span style="color:red;font-size:1.5em;">&#10007;</span>   | Planned to be added                |
