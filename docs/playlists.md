@@ -28,3 +28,5 @@ Then, when you're ready to resume the generator in a channel, simply re-use the 
 ## De-Authorize CLYPPY as a connected Spotify App
 
 If you'd like to stop using CLYPPY's Playlist Generation feature, you can disconnect the app from your Spotify Account by revoking access to CLYPPY through [your Spotify connected Apps](https://www.spotify.com/us/account/apps/).
+
+After revoking access, it may take up to an hour for the changes to take effect.
