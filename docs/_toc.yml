@@ -6,5 +6,6 @@ root: index
 chapters:
 - file: invite
 - file: alert
+- file: playlist
 - file: embed
 - file: log
