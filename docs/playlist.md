@@ -9,6 +9,9 @@ CLYPPY allows users to generate spotify playlists from links sent within a Disco
 Simply use the `/playlist` command within any Discord channel, and CLYPPY will start watching that channel for new Spotify links!
 ```
 
+![](images/discord-view.gif)
+![](images/spotify-view.gif)
+
 Using the `/playlist` command also scans the past 100 messages in the current channel for Spotify links, adding them to the new playlist as well.
 
 ```{important}
