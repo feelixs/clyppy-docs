@@ -1,5 +1,9 @@
 # Playlist Generator
 
+```{note}
+To interact with and customize CLYPPY's Playlist Generator, you must use Slash Commands (`/playlist` and `/prm`). Integration into the CLYPPY Dashboard will come soon! 
+```
+
 ## Setting up the Generator
 
 CLYPPY allows users to generate spotify playlists from links sent within a Discord channel.
