@@ -1,5 +1,11 @@
 # Playlist Generator
 
+```{important}
+CLYPPY's Playlist Generator functionality has been transferred to the [Spotty Bot](https://spotty.clyppy.com) as of March 23, 2024. Spotty can add this functionality to your server in the same way! (Invite Spotty)[https://discord.com/oauth2/authorize?client_id=1221062771127615540].
+```
+
+ ---
+
 ```{note}
 To interact with and customize CLYPPY's Playlist Generator, you must use Slash Commands (`/playlist` and `/prm`). Integration into the CLYPPY Dashboard will come soon! 
 ```
