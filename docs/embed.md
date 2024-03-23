@@ -11,6 +11,8 @@ See [Supported Video Types](#supported-video-types) to view a list of all video 
 `/embed url=[Video link]`
 ```
 
+![](images/tiktok-embed.gif)
+
 It may take some time for the video to be processed by CLYPPY before you see it embedded into your chat. 
 
 If other users have submitted embed requests before you, your embed will be but into a queue behind them.
