@@ -1,7 +1,7 @@
 # Playlist Generator
 
 ```{important}
-CLYPPY's Playlist Generator functionality has been transferred to the [Mixtape Bot](https://mixtape.clyppy.com) as of March 23, 2024. Mixtape can add this functionality to your server in the same way! (Invite Mixtape)[https://discord.com/oauth2/authorize?client_id=1221062771127615540].
+CLYPPY's Playlist Generator functionality has been transferred to the [Mixtape Bot](https://mixtape.clyppy.com) as of March 23, 2024. Mixtape can add this functionality to your server in the same way! [Invite Mixtape](https://discord.com/oauth2/authorize?client_id=1221062771127615540).
 ```
 
  ---
