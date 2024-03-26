@@ -9,6 +9,10 @@ Your dashboard may not warn you if you enter an invalid Channel ID manually! Bef
 
 ## Clip Alerts
 
-There are two types of Clip Alerts: `New Clip` and `Trending Clip`.
+There are two types of Clip Alerts: `New Clip` 
 
 ![](images/newclip.gif)
+
+and `Trending Clip`.
+
+![](images/trending-clip.gif)
