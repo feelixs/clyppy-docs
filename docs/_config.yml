@@ -30,4 +30,12 @@ repository:
 html:
   use_issues_button: false
   use_repository_button: false
-  use_fullscreen_button: false
+  use_download_button: false
+  launch_buttons: # Configure the launch buttons
+    notebook_interface: "classic"  # The interface interactive links will activate
+    binderhub_url: ""  # The URL of the BinderHub (e.g., https://mybinder.org)
+    colab_url: ""  # The URL of Google Colab (e.g., https://colab.research.google.com)
+    thebe: false  # Whether to activate the Thebe button
+    jupyterhub_url: ""  # The URL of the JupyterHub
+    fullscreen: false  # Whether to activate the fullscreen button
+    
