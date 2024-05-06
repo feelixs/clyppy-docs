@@ -3,7 +3,7 @@
 
 title: ''
 author: '@feelixs'
-logo: images/splash.jpg
+logo: images/splash.webp
 
 # Force re-execution of notebooks on each build.
 # See https://jupyterbook.org/content/execute.html
