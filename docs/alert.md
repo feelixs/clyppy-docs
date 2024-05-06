@@ -46,7 +46,7 @@ This can be configured in the "Discord Channel" field of the new alert form. You
 After you enter the Channel ID manually, note that the dropdown's selection **will not change**. This is normal, and the Dashboard will simply ignore the dropdown selection in favor of the manually entered Channel ID.
 ```
 
-For more help, see the [How to Copy Channel ID](https://help.clyppy.com/discord-developer-mode#how-to-copy-channel-id) section.
+For more help, see the [How to Copy Channel ID](https://help.clyppy.com/developer-mode#how-to-copy-channel-id) section.
 
 ---
 
