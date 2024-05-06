@@ -36,7 +36,3 @@ sphinx:
     config:
       html_theme_options:
         use_download_button: false
-
-extra_css:
-  - custom.css
-
