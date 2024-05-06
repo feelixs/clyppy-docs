@@ -5,6 +5,7 @@ format: jb-book
 root: index
 chapters:
 - file: invite
+- file: developer-mode
 - file: alert
 - file: quickembed
 - file: embed
