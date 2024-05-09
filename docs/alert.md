@@ -4,7 +4,7 @@
 
 To add a New Alert, navigate to the "Add a New Alert" section on the dashboard.
 
-![Configuration for basic New Alert](images/add-new-alert.jpg)
+![Configuration for basic New Alert](images/add-new-alert.webp)
 
 Select the type of alert you'd like to add, then click the "Add" button.
 
