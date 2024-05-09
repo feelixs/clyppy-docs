@@ -10,7 +10,7 @@ To get started, invite CLYPPY to your Discord server with at least the following
 This part is important, as it will allow CLYPPY to send alerts correctly!
 ```
 
-The additional required Permission, `ATTACH_FILES`, is required if you plan on using CLYPPY's `/embed` command feature. Without the Attach Files permission, Discord won't allow the bot to upload video files to your server.
+The additional required Permission, `ATTACH_FILES`, is required if you plan on using CLYPPY's Quick Embed feature. Without the Attach Files permission, Discord won't allow the bot to upload video files to your server.
 
 ## All set?
 
