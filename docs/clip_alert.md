@@ -1,6 +1,4 @@
-# Alerts
-
-## Clip Alerts
+# Clip Alerts
 
 There are two types of Clip Alerts: `New Clip` 
 

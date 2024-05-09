@@ -6,7 +6,7 @@ root: index
 chapters:
 - file: invite
 - file: developer-mode
-- file: alert
+- file: clip_alert
 - file: quickembed
 - file: embed
 - file: log
