@@ -1,4 +1,4 @@
-# Clip Alerts
+# CLYPPY Clip Alerts
 
 There are two types of Clip Alerts: `New Clip` 
 
