@@ -1,4 +1,6 @@
-# Adding an Alert
+# CLYPPY Alerts
+
+## Adding an Alert
 
 To add a New Alert, navigate to the "Add a New Alert" section on the dashboard.
 
