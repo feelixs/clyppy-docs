@@ -16,4 +16,4 @@ Use whichever clip alert type you prefer, or both!
 
 ## More info
 
-For more information on how to set up alerts, see the [Alerts](alert.md) page.
+For more information on how to set up alerts, see the [Alerts](alerts.md) page.
