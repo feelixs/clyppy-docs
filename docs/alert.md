@@ -10,7 +10,7 @@ and `Trending Clip`.
 
 ![](images/trending-clip.gif)
 
-Add the `New Clip` alert to receive a notification when a new clip is posted in the selected channel. 
+Add the `New Clip` alert to receive a notification when a new Twitch Clip is created for a Twitch Channel.
 
 The `Trending Clip` alert will notify you when a clip enters the 'top' section for its corresponding Twitch Channel.
 
