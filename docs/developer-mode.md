@@ -70,5 +70,3 @@ And it will display the user's profile as an interactable mention!
 ![](images/user-mention.png)
 
 This can be useful if you know the user's ID but not their username.
-
----
