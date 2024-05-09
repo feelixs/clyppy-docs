@@ -32,13 +32,11 @@ For more help, see the [How to Copy Channel ID](https://help.clyppy.com/develope
 
 ---
 
-### Additional Notes
+## Additional Notes
 
 ```{note}
 Your dashboard won't warn you if you enter an invalid Channel ID manually! Before continuing, make sure the dashboard correctly loaded the channel name in your 'Summary' section (under the new alert).
 ```
-
-### For Example
 
 ![](images/invalid-channel-example.jpg)
 
