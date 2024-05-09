@@ -5,9 +5,10 @@ format: jb-book
 root: index
 chapters:
 - file: invite
-- file: developer-mode
-- file: clip_alert
 - file: quickembed
 - file: embed
+- file: developer-mode
+- file: clip_alert
+- file: stream_alert
 - file: log
 - file: playlist
