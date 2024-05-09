@@ -16,4 +16,4 @@ The additional required Permission, `ATTACH_FILES`, is required if you plan on u
 
 ![](https://cdn.jsdelivr.net/npm/@hackmd/emojify.js@2.1.0/dist/images/basic/tada.png)
 
-After successfully inviting CLYPPY, you're ready to [add your first alert](alert.md) so CLYPPY knows what to alert your server about!
+After successfully inviting CLYPPY, you're ready to [add your first alert](clip_alert.md) so CLYPPY knows what to alert your server about!
