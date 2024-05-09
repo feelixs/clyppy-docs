@@ -1,4 +1,4 @@
-# Stream Alerts
+# CLYPPY Stream Alerts
 
 CLYPPY also supports sending alerts to your Discord server when a streamer goes live. This feature is perfect for keeping your community up-to-date with their favorite streamers.
 
