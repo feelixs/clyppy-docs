@@ -8,6 +8,8 @@ Discord Developer Mode is a feature that allows you to see the IDs of various el
 - Debugging issues with bots or other Discord features.
 - Providing debugging information to developers.
 
+Note that Developer Mode is **not needed** for using CLYPPY. This guide merely serves as a reference for those who want to use it.
+
 ## How to Enable Developer Mode
 
 To enable Developer Mode in Discord, follow these steps:
