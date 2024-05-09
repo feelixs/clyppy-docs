@@ -8,4 +8,4 @@ To add a Stream Alert, navigate to the "Add a New Alert" section on the dashboar
 
 ## More info
 
-For more information on how to set up alerts, see the [Alerts](alert.md) page.
+For more information on how to set up alerts, see the [Alerts](alerts.md) page.
