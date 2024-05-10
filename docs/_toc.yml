@@ -8,6 +8,7 @@ chapters:
 - file: quickembed
 - file: embed
 - file: developer-mode
+- file: dashboard
 - file: alerts
 - file: clip_alert
 - file: stream_alert
