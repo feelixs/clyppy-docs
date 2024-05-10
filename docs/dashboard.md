@@ -24,26 +24,28 @@ For more information on how to set up Alerts, see the [Alerts](alerts.md) page.
 
 ### Known bugs:
 
-1. No Servers Listed
+#### No Servers Listed
 
 ![](images/dashboard-bug.webp)
 
 If your Dashboard appears blank with no Servers listed, try the following fix:
 
-- Log out of the Dashboard.
-- Log back in and ensure you're using the correct Discord Account.
+- Log out of the Dashboard by hovering over your Discord Profile in the top-right corner, and clicking "Logout".
+- Log back in by visiting "Dashboard" or "Login"
 
-2. Alerts Not Sending
+This bug is caused by an incorrect discord session token stored by the CLYPPY website. Logging out and back in will refresh the session token, which should fix the issue.
+
+#### Alerts Not Sending
 
 If your Alerts are not sending, try the following fix:
 
 - Ensure that CLYPPY has the necessary permissions in your Discord Server. For more information, see the [Invite CLYPPY](invite.md) page.
 - Verify that the Alert is correctly configured in the Dashboard. For more information, see the [Alerts](alerts.md) page.
 
-3. Quick Embed Not Working
+#### Quick Embed Not Working
 
 - Ensure that CLYPPY has the necessary permissions in your Discord Server. For more information, see the [Quick Embed](quickembed.md) page.
 
 ---
 
-If you encounter any other issues with the Dashboard, please reach out to the [CLYPPY Support](https://clyppy.com/support) Team for assistance.
+If you encounter any other issues, please reach out to the [CLYPPY Support Team](https://clyppy.com/support) for assistance.
