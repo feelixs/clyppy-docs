@@ -20,7 +20,21 @@ The Server Dashboard displays all Alerts and Settings for the selected server. F
 
 For more information on how to set up Alerts, see the [Alerts](alerts.md) page.
 
-## Troubleshooting
+## Miscellaneous
+
+### Terminology
+
+#### Alert Slots
+
+Alert Slots are the number of Alerts you can have active at any given time. All alerts types have their own separate alert slot counts.
+
+For example, Free Tier has a default limit of 10 Clip Alerts and 10 Stream Alerts, so you're able to have up to 10 Clip Alerts and 10 Stream Alerts active at the same time.
+
+#### Refresh Rate
+
+The Refresh Rate is the frequency at which CLYPPY checks for new alerts. 
+
+For Clip Alerts, this is the frequency at which CLYPPY checks for new clips. For Stream Alerts, this is the frequency CLYPPY checks streamers' live status.
 
 ### Known bugs:
 
