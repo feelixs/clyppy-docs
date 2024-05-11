@@ -36,6 +36,14 @@ The Refresh Rate is the frequency at which CLYPPY checks for new alerts.
 
 For Clip Alerts, this is the frequency at which CLYPPY checks for new clips. For Stream Alerts, this is the frequency CLYPPY checks streamers' live status.
 
+#### Clip Titles
+
+Clip Alerts will automatically pull the title of the Twitch clip at the time the Alert is sent. If the clip has no title, CLYPPY will use the title of the Twitch Stream that the clip is from.
+
+For Free Tier, clip titles inside CLYPPY Alerts will stay static and won't update if the clip title changes on Twitch.
+
+For Gold Tier, CLYPPY will update the clip title inside Alerts if the clip title changes on Twitch within 24 hours its creation (once per alert).
+
 ### Known bugs:
 
 #### No Servers Listed
