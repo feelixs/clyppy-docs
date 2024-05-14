@@ -1,5 +1,9 @@
 # CLYPPY Alerts
 
+```{note}
+Not getting alerts? Check CLYPPY's next Alert Refresh by using the `/info` command in your Discord server. [Reach Out](https://clyppy.com/support) if you're having any difficulties.
+```
+
 ## Adding an Alert
 
 To add a New Alert, navigate to the "Add a New Alert" section on the dashboard.
